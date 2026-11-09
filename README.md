@@ -72,4 +72,4 @@ Les skills sont en français et se déclenchent sur des mots simples (« on repr
 
 ---
 
-Utilisé au quotidien sur 13 projets (SaaS, apps, missions clients). Portfolio : https://lab.sorek-inc.fr
+Utilisé au quotidien sur une vingtaine de projets (SaaS, apps, missions clients). Portfolio : https://lab.sorek-inc.fr
